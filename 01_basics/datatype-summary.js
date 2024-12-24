@@ -41,3 +41,11 @@ console.log( typeof anotherId);
 // Q- Is JS dynamically typed or statically typed 
 // JS is dynamically typed
 
+
+//++++++++++++++++++++++++++++
+// Stack(primitive), Heap (Non-Primitive)
+
+let myYoutubename= "ankitxD"
+
+let anothername= "myYoutubename"
+
