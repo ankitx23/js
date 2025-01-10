@@ -27,7 +27,7 @@ let score1 = 100
 let score2 = 2300
 let score3= 1200
 
-console.log(Array.of(score1, score2, score3)); // it also does the same turns the value into array
+console.log(Array.of(score1, score2, score3)); // it also does the same turns the value into array.
 
 
 
